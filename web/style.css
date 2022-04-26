@@ -1,0 +1,43 @@
+body{
+	background-image: url();
+	background-size:50% ;
+}
+.container{
+	margin: 50px 50px;
+	position: absolute;
+	align-content: left;
+
+}   
+ul{
+	list-style-type: none;
+	float: right;
+	display: flex;
+	margin: 0;
+	padding: 0px;
+	background: green;
+	block;
+}
+li{
+	padding: 10px;
+	background: ;
+	color: darkred;
+}
+td{
+	text-align: right;
+}
+button{
+	background: blue;
+	border-radius: 40px;
+
+}
+button:hover{
+	background: seagreen;
+}
+button:click{
+	color: green;
+}
+table{
+	border: 1px solid green;
+	margin: 60px;
+	padding: 20px;
+}

@@ -1,0 +1,12 @@
+body{
+	background: limegreen;
+}
+.small{
+	font-size: 24px;
+}
+.big{
+	font-size: 300pxpx;
+}
+div{
+	background: aliceblue;
+}
